@@ -18,3 +18,4 @@ This project includes two versions:
 
 ---
 
+- Great for learning file handling and basic database CRUD operations.
